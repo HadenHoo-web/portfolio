@@ -11,7 +11,7 @@ import imgMe from "../assets/mainPicture.jpg";
 const Home: React.FC = () => {
 	useEffect(() => {
 		const typed = new Typed("#typed", {
-			strings: ["Quốc Huy", "Website Developer"],
+			strings: ["App Mobile Developer", "Website Developer"],
 			typeSpeed: 100,
 			backSpeed: 100,
 			loop: true,
@@ -63,7 +63,7 @@ const Home: React.FC = () => {
 
 					<Intro>
 						<Small id="home-title">Hello, I'm</Small>
-						<Name>Le Van Dat</Name>
+						<Name>Ho Quoc Huy</Name>
 					</Intro>
 
 					<TypedLine>
