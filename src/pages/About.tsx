@@ -61,7 +61,7 @@ function AboutMe() {
 									<ButtonLeft>See my CV</ButtonLeft>
 								</a>
 								<a
-									href="https://github.com/DatLe328"
+									href="https://github.com/HadenHoo-web"
 									target="_blank"
 								>
 									<ButtonRight>View my Github</ButtonRight>

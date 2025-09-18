@@ -16,7 +16,7 @@ const CONTACT = {
 	phone: "0703 828 106",
 	location: "Quan 12, Ho Chi Minh City, Vietnam",
 	github: "https://github.com/HadenHoo-web",
-	linkedin: "https://www.linkedin.com/in/huy-qu%E1%BB%91c-105888318/",
+	linkedin: "https://www.linkedin.com/in/huy-quoc-105888318/",
 };
 
 const Contact: React.FC = () => {

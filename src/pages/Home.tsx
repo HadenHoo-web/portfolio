@@ -52,7 +52,7 @@ const Home: React.FC = () => {
 							<FaGithub />
 						</a>
 						<a
-							href="https://www.linkedin.com/in/huy-qu%E1%BB%91c-105888318/"
+							href="https://www.linkedin.com/in/huy-quoc-105888318/"
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="LinkedIn"
