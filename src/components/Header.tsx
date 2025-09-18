@@ -53,9 +53,9 @@ const Header: React.FC = () => {
         <Brand
           href="#home"
           onClick={(e) => handleJump(e, "#home")}
-          aria-label="Lê Văn Đạt - về đầu trang"
+          aria-label="Hồ Quốc Huy - về đầu trang"
         >
-          Lê Văn Đạt
+          Hồ Quốc Huy
         </Brand>
 
         {/* menu desktop */}
