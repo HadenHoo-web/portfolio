@@ -5,14 +5,9 @@ import imgMe from "../assets/mainPicture.jpg";
 function AboutMe() {
 	const [highlightText] = useState([
 		{ context: "Front-end with React & TypeScript" },
-		{ context: "Back-end with Python (Django) & Java" },
+		{ context: "Back-end with Python" },
 		{ context: "Designing and documenting RESTful APIs" },
-		{ context: "CI/CD and Docker" },
 		{ context: "Mobile apps with React Native" },
-		{
-			context:
-				"AI/NLP",
-		},
 	]);
 
 	return (
@@ -28,8 +23,8 @@ function AboutMe() {
 					<IntroduceBookRight>
 						<ItemWrapper>
 							<TextRight>
-								I’m <b>Le Van Dat</b>, a third-year{" "}
-								<b>Computer Science</b> student at
+								I’m <b>Ho Quoc Huy</b>, a third-year{" "}
+								<b>Information Technology</b> student at
 								<b> Ho Chi Minh City Open University</b>. I
 								enjoy turning ideas into simple, reliable
 								products and can take a feature from planning to
@@ -38,27 +33,7 @@ function AboutMe() {
 								learn fast and contribute. I’ve completed the
 								core coursework and built several project
 								prototypes. Roles of interest:{" "}
-								<b>Full-Stack Developer</b>,{" "}
-								<b>Software Engineer</b>.
-							</TextRight>
-
-							<TextRight>
-								2023–2025: Member of the university programming
-								team for the
-								<b>
-									{" "}
-									Vietnam National Olympiad in Informatics
-								</b>{" "}
-								— strengthening my algorithmic thinking and
-								problem-solving skills.
-							</TextRight>
-
-							<TextRight>
-								I’m currently building an <b>AI/NLP</b> capstone
-								— an assistant that helps connect employers with
-								candidates by analyzing job descriptions and
-								resumes (skills extraction, semantic matching
-								with embeddings, and ranking).
+								<b>Website Developer</b>,{" "}
 							</TextRight>
 
 							<FewHighlightWrapper>
