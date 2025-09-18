@@ -4,7 +4,7 @@ import imgQLST from "../assets/qlst.png";
 // import imgTest from "../assets/test.jpg";
 // import imgCourse from "../assets/courseLogin.jpg"
 import imgClinic from "../assets/clinicManagement.png"
-import imgHolder from "../assets/placeHolder.jpg"
+import imgHolder from "../assets/courseLogin.jpg"
 
 type Tech = { nameTech: string };
 
