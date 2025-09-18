@@ -1,7 +1,5 @@
 import styled from "styled-components";
 import logo from "../assets/logo.png";
-import logoVaip from "../assets/logoVaip.jpg";
-
 type Award = {
 	id: number;
 	logo: string;
@@ -14,14 +12,14 @@ type Award = {
 const AWARDS: Award[] = [
 	{
 		id: 1,
-		logo,
+		logo: logo,
 		name: "Scholarship — Academic Encouragement Scholarship",
 		where: "HCM Open University",
 		date: "Jan 2025",
 	},
 	{
 		id: 2,
-		logo,
+		logo: logo,
 		name: "Scholarship — Academic Encouragement Scholarship",
 		where: "HCM Open University",
 		date: "Aug 2025",
