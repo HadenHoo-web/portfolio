@@ -36,7 +36,7 @@ const PROJECTS: Project[] = [
 			{ nameTech: "Google TTS/STT" },
 		],
 		linkLive: "",
-		linkGit: "https://github.com/DatLe328/AI-Powered-Recruitment-Platform",
+		linkGit: "https://github.com/HadenHoo-web/2251050035_HoQuocHuy_BookReaderApp",
 		member: "2",
 		role: "End-to-end owner—data processing, API/backend, simple UI, and deployment.",
 		result: "Delivered a working prototype that enables visually impaired users to search and read books fully via voice; deployed with reproducible backend APIs and modular frontend components."

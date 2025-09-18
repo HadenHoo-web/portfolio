@@ -11,7 +11,7 @@ import imgMe from "../assets/mainPicture.jpg";
 const Home: React.FC = () => {
 	useEffect(() => {
 		const typed = new Typed("#typed", {
-			strings: ["Đạt Lê", "Full-stack Developer", "NLP and AI Learner"],
+			strings: ["Quốc Huy", "Website Developer"],
 			typeSpeed: 100,
 			backSpeed: 100,
 			loop: true,
@@ -33,7 +33,7 @@ const Home: React.FC = () => {
 				<Right>
 					<Icons aria-label="Social Media">
 						<a
-							href="https://www.facebook.com/atle.670811"
+							href="https://www.facebook.com/ho.quoc.huy.456605"
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="Facebook"
@@ -44,7 +44,7 @@ const Home: React.FC = () => {
               <FaInstagram />
             </a> */}
 						<a
-							href="https://github.com/"
+							href="https://github.com/HadenHoo-web"
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="GitHub"
@@ -52,7 +52,7 @@ const Home: React.FC = () => {
 							<FaGithub />
 						</a>
 						<a
-							href="https://linkedin.com/in/đạt-lê-b10069319"
+							href="https://www.linkedin.com/in/huy-qu%E1%BB%91c-105888318/"
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="LinkedIn"
@@ -70,7 +70,7 @@ const Home: React.FC = () => {
 						<span id="typed" />
 					</TypedLine>
 					<Buttons>
-						<a href="https://www.overleaf.com/read/hwyjhsndpbgy#873b50" target="_blank">
+						<a href="https://www.overleaf.com/read/mjvygghhkkht#850fde" target="_blank">
 							<Btn variant="outline">See my CV</Btn>
 						</a>
 						<a href="#contact">
