@@ -55,7 +55,7 @@ function AboutMe() {
 							</FewHighlightWrapper>
 							<ButtonWrapper>
 								<a
-									href="https://www.overleaf.com/1664766924cpskwxsrgzdk#46fb9e"
+									href="https://www.overleaf.com/read/mjvygghhkkht#850fde"
 									target="_blank"
 								>
 									<ButtonLeft>See my CV</ButtonLeft>
